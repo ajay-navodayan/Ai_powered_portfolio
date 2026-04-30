@@ -1,0 +1,75 @@
+PERSONAL INFORMATION
+Name: Ajay Kumar
+Location: Sitare University, Lucknow, India
+Email: su-23003@sitare.org
+Phone: +91 9798867386
+Available for full-time opportunities throughout 2026
+LinkedIn: linkedin.com/in/ajay-kumar
+GitHub: github.com/ajay-kumar
+
+EDUCATION
+Degree: B.Tech in Computer Science
+University: Sitare University (with SRMU)
+Location: Lucknow, Uttar Pradesh, India
+Graduation: May 2026
+Relevant Coursework: Advanced Data Structures and Algorithms, Object Oriented Programming, Database Management Systems, Web Applications Development, Deep Learning and Applications, Machine Learning, Search Engine and Information Retrieval, Artificial Intelligence, Operating Systems
+
+TECHNICAL SKILLS
+Programming Languages: Python, Java, JavaScript
+Web Technologies: HTML, CSS, Bootstrap, React.js, Node.js, Express.js, Flask
+Database Management: MongoDB, PostgreSQL
+Full Stack Development: MERN Stack, Frontend Development, Backend Development, REST APIs, Web Applications
+Tools and Technologies: NumPy, Pandas, Git, GitHub
+AI/ML: Deep Learning, Machine Learning, NLP, Transformers, BioBERT
+Other: Responsive Design, Flexbox, Grid, DNS Configuration, Netlify Deployment
+
+WORK EXPERIENCE
+Position: Software Development Intern
+Company: NextG Serve Pvt Ltd
+Location: New Delhi
+Duration: May 2025 – August 2025
+Responsibilities:
+- Developed a responsive single-page web application establishing the company's first web platform
+- Implemented frontend UI using HTML, CSS, and JavaScript with responsive layouts using Flexbox and Grid
+- Deployed the website with automated builds from a GitHub repository and configured DNS for custom domain hosting
+Technology Stack: HTML5, CSS3, JavaScript, GitHub, Netlify, Squarespace
+
+PROJECTS
+
+Project 1: Campus Marketplace
+Description: A full stack web platform that allows students to buy and sell items within the campus community.
+Key Features:
+- Product listing features that simplify buying and selling for students
+- Backend APIs and responsive frontend for seamless campus-based transactions
+- Role-based user access and secure authentication
+Technologies Used: Flask, PostgreSQL, HTML, CSS, JavaScript
+Type: Full Stack Web Application
+
+Project 2: Feedback Management System
+Description: A feedback platform that automates feedback collection, analysis, and communication with real-time visual dashboards and role-based access control.
+Key Features:
+- Currently used by 300+ students for submitting and managing academic feedback
+- Automated backend processing and responsive user interface
+- Real-time visual dashboards
+- Role-based access control
+- Hosted on a live server
+Technologies Used: HTML, CSS, Flask, PostgreSQL, JavaScript
+Type: Full Stack Web Application, Live Production System
+Status: Live/Deployed
+
+Project 3: Disease Named Entity Recognition (NER) System
+Description: An AI-powered system to detect and highlight disease entities from medical text using BioBERT.
+Key Features:
+- Trained a BioBERT-based model on the NCBI Disease dataset
+- Detects and highlights disease entities from medical text
+- Full-fledged web-based interface for medical research and text processing
+- Supports both text and image uploads for comprehensive analysis
+Technologies Used: Python, BioBERT, NCBI Disease Dataset, NLP, Transformers
+Type: AI/ML Project, NLP
+
+SCHOLARSHIPS AND ACHIEVEMENTS
+1. 100% B.Tech CS Scholarship from Sitare Foundation (August 2023 – Present)
+2. Reliance Undergraduate Scholarship from Reliance Foundation (January 2024 – Present)
+
+ABOUT AJAY KUMAR
+Ajay Kumar is a passionate Computer Science student at Sitare University, Lucknow, set to graduate in May 2026. He is a full-stack developer with hands-on experience in building real-world applications using Flask, React.js, PostgreSQL, and JavaScript. He has professional internship experience at NextG Serve Pvt Ltd in New Delhi, where he built the company's first web platform. He has built projects that serve 300+ active users, showcasing his ability to deliver production-ready solutions. He is also knowledgeable in AI/ML, having built an NLP-based disease entity recognition system using BioBERT. He is a recipient of two prestigious scholarships: the Sitare Foundation 100% scholarship and the Reliance Undergraduate Scholarship.
