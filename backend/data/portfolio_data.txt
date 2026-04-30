@@ -1,75 +1,96 @@
 PERSONAL INFORMATION
 Name: Ajay Kumar
-Location: Sitare University, Lucknow, India
+Location: Sitare University with SRMU, Lucknow, India
 Email: su-23003@sitare.org
 Phone: +91 9798867386
-Available for full-time opportunities throughout 2026
 LinkedIn: linkedin.com/in/ajay-kumar
 GitHub: github.com/ajay-kumar
+Availability: Available for full-time opportunities throughout 2026
+
+ABOUT AJAY KUMAR
+Ajay Kumar is a passionate and dedicated Computer Science student at Sitare University (with SRMU), Lucknow, India. He is expected to graduate in May 2026 with a B.Tech in Computer Science. Ajay is a full-stack developer with hands-on experience building real-world production applications. He has professional internship experience at NextG Serve Pvt Ltd in New Delhi where he worked as a Software Development Intern. He has built projects serving 300+ active users. He is skilled in AI/ML, having built an NLP-based disease entity recognition system using BioBERT. He holds two prestigious scholarships: the Sitare Foundation 100% B.Tech CS Scholarship and the Reliance Undergraduate Scholarship from Reliance Foundation. Ajay is skilled in Python, Java, JavaScript, React.js, Flask, PostgreSQL, MongoDB, and many more technologies.
 
 EDUCATION
 Degree: B.Tech in Computer Science
 University: Sitare University (with SRMU)
 Location: Lucknow, Uttar Pradesh, India
-Graduation: May 2026
+Expected Graduation: May 2026
 Relevant Coursework: Advanced Data Structures and Algorithms, Object Oriented Programming, Database Management Systems, Web Applications Development, Deep Learning and Applications, Machine Learning, Search Engine and Information Retrieval, Artificial Intelligence, Operating Systems
 
 TECHNICAL SKILLS
 Programming Languages: Python, Java, JavaScript
 Web Technologies: HTML, CSS, Bootstrap, React.js, Node.js, Express.js, Flask
 Database Management: MongoDB, PostgreSQL
-Full Stack Development: MERN Stack, Frontend Development, Backend Development, REST APIs, Web Applications
+Full Stack Development: MERN Stack (MongoDB, Express.js, React.js, Node.js), Frontend Development, Backend Development, REST APIs, Web Applications
 Tools and Technologies: NumPy, Pandas, Git, GitHub
-AI/ML: Deep Learning, Machine Learning, NLP, Transformers, BioBERT
-Other: Responsive Design, Flexbox, Grid, DNS Configuration, Netlify Deployment
+AI and ML Skills: Deep Learning, Machine Learning, NLP (Natural Language Processing), Transformers, BioBERT
+Other Skills: Responsive Design, Flexbox, Grid, DNS Configuration, Netlify Deployment, Squarespace
 
 WORK EXPERIENCE
 Position: Software Development Intern
 Company: NextG Serve Pvt Ltd
-Location: New Delhi
-Duration: May 2025 – August 2025
-Responsibilities:
-- Developed a responsive single-page web application establishing the company's first web platform
-- Implemented frontend UI using HTML, CSS, and JavaScript with responsive layouts using Flexbox and Grid
-- Deployed the website with automated builds from a GitHub repository and configured DNS for custom domain hosting
-Technology Stack: HTML5, CSS3, JavaScript, GitHub, Netlify, Squarespace
+Location: New Delhi, India
+Duration: May 2025 to August 2025
+Description: Ajay worked as a Software Development Intern at NextG Serve Pvt Ltd in New Delhi. During his internship, he developed a responsive single-page web application that established the company's first web platform. He implemented the frontend UI using HTML, CSS, and JavaScript with responsive layouts using Flexbox and Grid. He deployed the website with automated builds from a GitHub repository and configured DNS for custom domain hosting.
+Technology Stack Used: HTML5, CSS3, JavaScript, GitHub, Netlify, Squarespace
+Key Achievements: Built the company's very first web platform from scratch, set up automated deployment pipeline, configured custom domain DNS
 
 PROJECTS
 
 Project 1: Campus Marketplace
-Description: A full stack web platform that allows students to buy and sell items within the campus community.
+Type: Full Stack Web Application
+Description: A full stack web platform that allows students to buy and sell items within the campus community. This project demonstrates Ajay's full-stack development capabilities.
 Key Features:
-- Product listing features that simplify buying and selling for students
-- Backend APIs and responsive frontend for seamless campus-based transactions
+- Developed a campus marketplace platform with product listing features that simplify buying and selling for students
+- Implemented backend APIs and responsive frontend for seamless campus-based transactions
 - Role-based user access and secure authentication
 Technologies Used: Flask, PostgreSQL, HTML, CSS, JavaScript
-Type: Full Stack Web Application
 
 Project 2: Feedback Management System
-Description: A feedback platform that automates feedback collection, analysis, and communication with real-time visual dashboards and role-based access control.
+Type: Full Stack Web Application, Live Production System
+Status: Live and Deployed (currently in active use)
+Description: A feedback platform that automates feedback collection, analysis, and communication with real-time visual dashboards and role-based access control. This is Ajay's most impactful project.
 Key Features:
 - Currently used by 300+ students for submitting and managing academic feedback
+- Developed and deployed a feedback management platform on a live server
 - Automated backend processing and responsive user interface
-- Real-time visual dashboards
-- Role-based access control
-- Hosted on a live server
+- Real-time visual dashboards and role-based access control
+- This project is live and actively serving hundreds of users
 Technologies Used: HTML, CSS, Flask, PostgreSQL, JavaScript
-Type: Full Stack Web Application, Live Production System
-Status: Live/Deployed
+Impact: 300+ active users, deployed on production server
 
 Project 3: Disease Named Entity Recognition (NER) System
-Description: An AI-powered system to detect and highlight disease entities from medical text using BioBERT.
+Type: AI/ML Project, NLP, Deep Learning
+Description: An AI-powered system to detect and highlight disease entities from medical text using BioBERT. This project showcases Ajay's skills in AI, Machine Learning, and Natural Language Processing.
 Key Features:
-- Trained a BioBERT-based model on the NCBI Disease dataset
-- Detects and highlights disease entities from medical text
-- Full-fledged web-based interface for medical research and text processing
+- Trained a BioBERT-based model on the NCBI Disease dataset to detect and highlight disease entities from medical text
+- Developed a full-fledged web-based interface for medical research and text processing
 - Supports both text and image uploads for comprehensive analysis
+- Uses state-of-the-art transformer architecture for high accuracy
 Technologies Used: Python, BioBERT, NCBI Disease Dataset, NLP, Transformers
-Type: AI/ML Project, NLP
+
+Project 4: AI-Powered Portfolio Website
+Type: Full Stack Web Application with AI Chatbot
+Description: This very portfolio website that you are viewing right now! Ajay built this portfolio website using React.js for the frontend and Flask for the backend. It features an AI-powered chatbot that uses RAG (Retrieval-Augmented Generation) to answer questions about Ajay's background, skills, and projects.
+Technologies Used: React.js, Flask, Groq API, RAG, Python, JavaScript, CSS
 
 SCHOLARSHIPS AND ACHIEVEMENTS
-1. 100% B.Tech CS Scholarship from Sitare Foundation (August 2023 – Present)
-2. Reliance Undergraduate Scholarship from Reliance Foundation (January 2024 – Present)
+1. 100% B.Tech CS Scholarship from Sitare Foundation (August 2023 to Present)
+   Full scholarship covering the entire B.Tech Computer Science degree at Sitare University.
+   This is a highly competitive scholarship awarded to top students.
 
-ABOUT AJAY KUMAR
-Ajay Kumar is a passionate Computer Science student at Sitare University, Lucknow, set to graduate in May 2026. He is a full-stack developer with hands-on experience in building real-world applications using Flask, React.js, PostgreSQL, and JavaScript. He has professional internship experience at NextG Serve Pvt Ltd in New Delhi, where he built the company's first web platform. He has built projects that serve 300+ active users, showcasing his ability to deliver production-ready solutions. He is also knowledgeable in AI/ML, having built an NLP-based disease entity recognition system using BioBERT. He is a recipient of two prestigious scholarships: the Sitare Foundation 100% scholarship and the Reliance Undergraduate Scholarship.
+2. Reliance Undergraduate Scholarship from Reliance Foundation (January 2024 to Present)
+   Prestigious undergraduate scholarship from Reliance Foundation.
+   This scholarship recognizes academic excellence and leadership potential.
+
+CONTACT AND AVAILABILITY
+Ajay Kumar is actively looking for and available for full-time software development opportunities throughout 2026.
+He is open to roles in Full Stack Development, Backend Development, Frontend Development, AI/ML Engineering, and Software Engineering.
+Email: su-23003@sitare.org
+Phone: +91 9798867386
+LinkedIn: linkedin.com/in/ajay-kumar
+GitHub: github.com/ajay-kumar
+Location: Sitare University, Lucknow, Uttar Pradesh, India
+
+SUMMARY
+Ajay Kumar is a B.Tech Computer Science student graduating in May 2026 from Sitare University, Lucknow. He is a full-stack developer with internship experience, has built production applications used by 300+ users, and holds two prestigious scholarships. His technical expertise spans Python, Java, JavaScript, React.js, Flask, PostgreSQL, MongoDB, and AI/ML with BioBERT. He is available for full-time opportunities in 2026.

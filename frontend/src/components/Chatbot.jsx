@@ -60,8 +60,22 @@ export default function Chatbot({ isOpen, setIsOpen }) {
   const [input, setInput] = useState('')
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState(null)
+  const [showTooltip, setShowTooltip] = useState(false)
   const messagesEndRef = useRef(null)
   const inputRef = useRef(null)
+
+  // Show tooltip after 3 seconds to draw attention
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      if (!isOpen) setShowTooltip(true)
+    }, 3000)
+    return () => clearTimeout(timer)
+  }, [])
+
+  // Hide tooltip when chat is opened
+  useEffect(() => {
+    if (isOpen) setShowTooltip(false)
+  }, [isOpen])
 
   // Auto-scroll to latest message
   useEffect(() => {
@@ -144,15 +158,16 @@ export default function Chatbot({ isOpen, setIsOpen }) {
       {/* Floating Chat Button */}
       <button
         className={`chat-fab ${isOpen ? 'chat-fab--open' : ''}`}
-        onClick={() => setIsOpen(v => !v)}
+        onClick={() => { setIsOpen(v => !v); setShowTooltip(false); }}
         aria-label="Open AI chat"
       >
         {isOpen ? (
-          <X size={22} />
+          <X size={24} />
         ) : (
           <>
-            <MessageSquare size={22} />
+            <MessageSquare size={24} />
             <span className="fab-badge">AI</span>
+            {showTooltip && <span className="fab-tooltip">Ask me anything!</span>}
           </>
         )}
       </button>
@@ -171,7 +186,7 @@ export default function Chatbot({ isOpen, setIsOpen }) {
                 <div className="chat-bot-name">
                   <Sparkles size={12} /> Portfolio AI
                 </div>
-                <div className="chat-bot-status">Powered by RAG + GPT</div>
+                <div className="chat-bot-status">Powered by AI</div>
               </div>
             </div>
             <div className="chat-header__actions">
