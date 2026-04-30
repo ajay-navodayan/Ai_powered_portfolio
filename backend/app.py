@@ -21,12 +21,12 @@ app = Flask(__name__)
 
 # Enable CORS so React frontend can call this API
 # In production, replace "*" with your actual frontend domain
-CORS(app, origins=["http://localhost:5173", "https://your-frontend.vercel.app"])
+CORS(app, origins="*")
 
 # Initialize the RAG chatbot (builds FAISS index on startup)
-print("🚀 Initializing RAG Chatbot...")
+print("[*] Initializing RAG Chatbot...")
 chatbot = RAGChatbot(data_path="data/portfolio_data.txt")
-print("✅ Chatbot ready!")
+print("[OK] Chatbot ready!")
 
 
 @app.route("/", methods=["GET"])
@@ -70,7 +70,7 @@ def chat():
         })
 
     except Exception as e:
-        print(f"❌ Error in /chat: {e}")
+        print(f"[ERROR] Error in /chat: {e}")
         return jsonify({"error": "Something went wrong. Please try again."}), 500
 
 
